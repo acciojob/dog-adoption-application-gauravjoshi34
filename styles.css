@@ -1,2 +1,15 @@
 
 /* Your CSS Code here. */
+form{
+	max-width: 400px;
+	margin: auto;
+	padding: 20px;
+	border: 1px solid black;
+	border-radius: 8px;
+}
+
+input,select{
+	width: 100%;
+	margin-bottom: 10px;
+	padding: 8px;
+}
